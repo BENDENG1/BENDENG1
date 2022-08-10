@@ -1,4 +1,5 @@
-### Hi there 👋
+### 아직 많이 부족한 코린이 입니당.
+<hr>
 
 <!--
 **BENDENG1/BENDENG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
