@@ -1,5 +1,5 @@
 ### 아직 많이 부족한 코린이 입니당.
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=열심히 코딩해보자~&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=I’m currently learning![캡처](https://user-images.githubusercontent.com/76191161/183913247-936ab1ff-99a8-4a18-aa52-24f37b2cfb63.JPG)%20&fontSize=90)
 <hr>
 
 <!--
