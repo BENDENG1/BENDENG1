@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENDENG1)](https://github.com/BENDENG1/github-readme-stats)
 <br>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nogom369">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nogom369">
 <br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5djg455004909mh8s6gxle4/stats?cursusId=21&coalitionId=88" alt="gyroh's 42 stats" /></a>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5djg455004909mh8s6gxle4/stats?cursusId=9&coalitionId=piscine" alt="gyroh's 42 stats" /></a>
