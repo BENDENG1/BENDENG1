@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BENDENG1)](https://github.com/BENDENG1/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENDENG1)](https://github.com/BENDENG1/github-readme-stats)
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=40&section=header&text=열심히 코딩해보자~&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=40&section=header&text="열심히 코딩해보자~"&fontSize=20)
 
 <br><br><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5djg455004909mh8s6gxle4/stats?cursusId=21&coalitionId=88" alt="gyroh's 42 stats" /></a>
