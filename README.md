@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning![캡처](https://user-images.githubusercontent.com/76191161/183913247-936ab1ff-99a8-4a18-aa52-24f37b2cfb63.JPG)kotlin!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BENDENG1)](https://github.com/BENDENG1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENDENG1)](https://github.com/BENDENG1/github-readme-stats)
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
