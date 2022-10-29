@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BENDENG1)](https://github.com/BENDENG1/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENDENG1)](https://github.com/BENDENG1/github-readme-stats)
 
-[![Solved.ac
-nogom369](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nogom369">
 
 
 <br><br><br>
