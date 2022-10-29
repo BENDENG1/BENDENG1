@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ## 아직 많이 부족한 코린이 입니당.
 <hr>
-- 🌱 I’m currently learning![캡처](https://user-images.githubusercontent.com/76191161/183913247-936ab1ff-99a8-4a18-aa52-24f37b2cfb63.JPG)!
+- 🌱 I’m currently learning!(![image](https://user-images.githubusercontent.com/76191161/198813880-08d0de65-372c-419e-b197-75c3ff889e85.png))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BENDENG1)](https://github.com/BENDENG1/github-readme-stats)
 <br>
