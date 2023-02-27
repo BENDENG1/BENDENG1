@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <hr>
 - 🌱 I’m currently learning...<img src="https://user-images.githubusercontent.com/76191161/198813924-836062c2-e900-4116-9c50-cf6572e80b6a.png" width="300">
 
