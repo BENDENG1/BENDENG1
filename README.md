@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning...<img src="https://user-images.githubusercontent.com/76191161/198813924-836062c2-e900-4116-9c50-cf6572e80b6a.png" width="300">
+- 🌱 I’m currently learning...<br><img src="https://user-images.githubusercontent.com/76191161/198813924-836062c2-e900-4116-9c50-cf6572e80b6a.png" width="300">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BENDENG1)](https://github.com/BENDENG1/github-readme-stats)
