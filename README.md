@@ -1,8 +1,17 @@
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=008000&height=200&section=header&text=Muscle💪%20Roh&fontSize=90&fontColor=FFFFFF)
 ![BENDENG1's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENDENG1&show_icons=true&theme=merko) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nogom369)](https://solved.ac/nogom369/)<br>
 
+
+<br>Brief Information About Me<br>
+- [Personal Study Blog](https://bendeng-life.tistory.com/)<br>
+- I’m currently learning Android MVVM, AAC <br>
+- I'm currently building a health related app. <br>
+- How to reach me <a href="mailto:nogom369@naver.com">nogom369@naver.com</a>
+- Hobby : 💪헬스, 🍖맛집 투어, 🌏여행<br>
+
 🧑🏻‍💻 Experience <br>
-- 42SEOUL CADET (22.07.~ 23.05.)<br>
+- 42SEOUL CADET 7기(22.07.~ 23.05.)<br>
 - Rising Camp (Android) <br>
 - Seokyeong University, Computer Science (3.95/4.5) <br>
 
@@ -27,13 +36,11 @@ Programming Language :
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<br>Design : 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br>IDE : 
+<br> Tools : 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<br><br><br><br><br>
