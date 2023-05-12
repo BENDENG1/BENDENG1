@@ -2,8 +2,9 @@
 ![BENDENG1's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENDENG1&show_icons=true&theme=merko) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nogom369)](https://solved.ac/nogom369/)<br>
 
+<br><b>I'm going to be a cool ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) developer!</b>
 
-<br>Brief Information About Me<br>
+<br><b>Brief Information About Me</b><br>
 - [Personal Study Blog](https://bendeng-life.tistory.com/)<br>
 - I’m currently learning Android MVVM, AAC <br>
 - I'm currently building a health related app. <br>
@@ -21,7 +22,7 @@
 - 라이징 캠프 수료 (2023)
 
 <br>🛠 Tech Stack <br>
-I'm going to be a cool ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) developer!<br><br>
+
 Programming Language : 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
