@@ -7,7 +7,7 @@
 - Seokyeong University, Computer Science (3.95/4.5) <br>
 
 <br>🏆 AWARDS & CERT
-- 대학교 성적 우수 장학금 수령(2020) <br>
+- 대학교 성적 우수 장학금 <br>
 - TOEIC 730 😂 (2022)<br>
 - 라이징 캠프 수료 (2023)
 
