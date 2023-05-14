@@ -6,7 +6,7 @@
 
 <br><b>Brief Information About Me</b><br>
 - [Personal Study Blog](https://bendeng-life.tistory.com/)<br>
-- I’m currently learning Android MVVM, AAC <br>
+- I’m currently learning Android MVVM, AAC / Algorithm / Preparing for the Certification Exam <br>
 - I'm currently building a health related app. <br>
 - How to reach me <a href="mailto:nogom369@naver.com">nogom369@naver.com</a>
 - Hobby : 💪헬스, 🍖맛집 투어, 🌏여행<br>
