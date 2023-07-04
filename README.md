@@ -15,6 +15,7 @@
 - 42SEOUL CADET 7기(22.07.~ 23.05.)<br>
 - Rising Camp (Android) <br>
 - Seokyeong University, Computer Science (3.95/4.5) <br>
+- 네이버 부스트캠프 (2023) <br>
 
 <br>🏆 AWARDS & CERT
 - 대학교 성적 우수 장학금 <br>
