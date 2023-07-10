@@ -2,13 +2,14 @@
 ![BENDENG1's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENDENG1&show_icons=true&theme=merko) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nogom369)](https://solved.ac/nogom369/)<br>
 
-<h3>지금 하고 있는 것들 : Naver BoostCamp, PCCP, 정보처리기사, 헬스 앱 개발</h3>
+<h3>지금 하고 있는 것들 : Naver Boost Camp(Android), PCCP, 정보처리기사, 헬스 앱 개발(헬게더)</h3>
 
 <br><b>I'm going to be a cool ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) developer!</b>
 
 
 <br><b>Brief Information About Me</b><br>
 - [Personal Study Blog](https://bendeng-life.tistory.com/)<br>
+- [Notion, My Portfolio](https://woolen-pulsar-a1e.notion.site/73808941fa754dda94af80286eeb0cec?pvs=4)<br>
 - I’m currently learning Android MVVM, AAC / Algorithm / Preparing for the Certification Exam <br>
 - I'm currently building a health related app. <br>
 - How to reach me <a href="mailto:nogom369@naver.com">nogom369@naver.com</a>
