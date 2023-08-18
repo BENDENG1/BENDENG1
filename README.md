@@ -2,7 +2,7 @@
 ![BENDENG1's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENDENG1&show_icons=true&theme=merko) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nogom369)](https://solved.ac/nogom369/)<br>
 
-<h3>지금 하고 있는 것들 : Naver Boost Camp(Android)</h3>
+<h3>지금 하고 있는 것들 : Naver Boost Camp(Android) 맴버쉽 (8월말 시작), 토익, pccp 준비</h3>
 
 
 <br><b>I'm going to be a cool ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) developer!</b>
@@ -20,7 +20,8 @@
 - 42SEOUL CADET 7기(22.07.~ 23.05.)<br>
 - Rising Camp (Android) <br>
 - Seokyeong University, Computer Science (3.95/4.5) <br>
-- 네이버 부스트캠프 (2023) <br>
+- 네이버 부스트캠프 챌린지 수료(2023) <br>
+- 네이버 부스트캠프 맴버십 과정(2023) ING <br>
 
 <br>🏆 AWARDS & CERT
 - 대학교 성적 우수 장학금 <br>
