@@ -2,10 +2,8 @@
 ![BENDENG1's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENDENG1&show_icons=true&theme=merko) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nogom369)](https://solved.ac/nogom369/)<br>
 
-<h3>지금 하고 있는 것들 : Naver Boost Camp(Android) 맴버쉽 (8월말 시작), 토익, pccp 준비</h3>
 
-
-<br><b>I'm going to be a cool ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) developer!</b>
+<h3> Loading🔃 : Naver Boost Camp(Android), pccp </h3>
 
 
 <br><b>Brief Information About Me</b><br>
