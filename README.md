@@ -3,28 +3,25 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nogom369)](https://solved.ac/nogom369/)<br>
 
 
-<h3> Loading🔃 : Naver Boost Camp(Android), pccp </h3>
+<h3> Loading🔃 : 취준? </h3>
 
 
 <br><b>Brief Information About Me</b><br>
 - [Personal Study Blog](https://bendeng-life.tistory.com/)<br>
 - [Notion, My Portfolio](https://woolen-pulsar-a1e.notion.site/73808941fa754dda94af80286eeb0cec?pvs=4)<br>
-- I’m currently learning Android MVVM, AAC / Algorithm / Preparing for the Certification Exam <br>
-- I'm currently building a health related app. <br>
 - How to reach me <a href="mailto:nogom369@naver.com">nogom369@naver.com</a>
 - Hobby : 💪헬스, 🍖맛집 투어, 🌏여행<br>
 
 🧑🏻‍💻 Experience <br>
 - 42SEOUL CADET 7기(22.07.~ 23.05.)<br>
-- Rising Camp (Android) <br>
+- Rising Camp (Android) 수료 <br>
 - Seokyeong University, Computer Science (3.95/4.5) <br>
-- 네이버 부스트캠프 챌린지 수료(2023) <br>
-- 네이버 부스트캠프 맴버십 과정(2023) ING <br>
+- 네이버 부스트캠프 챌린지 과정(2023) 수료 <br>
+- 네이버 부스트캠프 맴버십 과정(2023) 수료 <br>
 
 <br>🏆 AWARDS & CERT
 - 대학교 성적 우수 장학금 <br>
 - TOEIC 730 😂 (2022)<br>
-- 라이징 캠프 수료 (2023)
 - SQLD 자격증
 - 리눅스 마스터 2급 자격증
 
