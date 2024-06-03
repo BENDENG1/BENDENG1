@@ -2,8 +2,7 @@
 ![BENDENG1's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENDENG1&show_icons=true&theme=merko) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nogom369)](https://solved.ac/nogom369/)<br>
 
-
-<h3> Loading🔃 : 취준? </h3>
+<br><br>
 
 
 <br><b>Brief Information About Me</b><br>
