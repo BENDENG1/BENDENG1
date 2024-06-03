@@ -2,9 +2,6 @@
 ![BENDENG1's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENDENG1&show_icons=true&theme=merko) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nogom369)](https://solved.ac/nogom369/)<br>
 
-<br><br>
-
-
 <br><b>Brief Information About Me</b><br>
 - [Personal Study Blog](https://bendeng-life.tistory.com/)<br>
 - [Notion, My Portfolio](https://woolen-pulsar-a1e.notion.site/73808941fa754dda94af80286eeb0cec?pvs=4)<br>
